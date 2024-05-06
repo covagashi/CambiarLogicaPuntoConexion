@@ -21,6 +21,8 @@ Indicamos la posición del valor que queremos poner.
 ![image](https://github.com/covagashi/CambiarLogicaPuntoConexion/assets/12519268/99df87af-df3a-46fa-9adc-c06802861665)
 
 
+Con el script solo tenemos que darle a un botón para cambiar de propiedad.
+
 # Pasos a realizar sin el script:
 
 ## 1
